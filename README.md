@@ -1,2 +1,2 @@
-# redStore
+# RedStore
  E-Commerce Website
